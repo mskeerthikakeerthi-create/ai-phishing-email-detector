@@ -1,0 +1,11 @@
+text,label
+"Your bank account is blocked. Click here now!","phishing"
+"Win iphone now by clicking this suspicious link","phishing"
+"Urgent login required verify your password","phishing"
+"Meeting scheduled tomorrow at 10am","safe"
+"Project submission deadline extended","safe"
+"Your Amazon order has been shipped","safe"
+"Free lottery claim now","phishing"
+"Please review attached company report","safe"
+"Update your account immediately","phishing"
+"Lunch meeting today","safe"
